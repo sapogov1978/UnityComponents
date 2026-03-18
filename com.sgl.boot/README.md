@@ -30,6 +30,7 @@ The main menu renders behind the boot canvas throughout. The splash dissolves to
 
 Add to `Packages/manifest.json`:
 
+**Local path:**
 ```json
 {
   "dependencies": {
@@ -38,11 +39,16 @@ Add to `Packages/manifest.json`:
 }
 ```
 
-Adjust the relative path to match your folder layout. For git URL, use:
-
+**Git URL:**
 ```json
-"com.sgl.boot": "https://github.com/sapogov-games/sgl-boot.git#1.0.4"
+{
+  "dependencies": {
+    "com.sgl.boot": "https://github.com/sapogov1978/UnityComponents.git?path=com.sgl.boot"
+  }
+}
 ```
+
+To pin a specific version, append a tag: `...UnityComponents.git?path=com.sgl.boot#1.0.4`
 
 ---
 

@@ -73,9 +73,9 @@ Initial release. Extracted from Tube Runner (Day 1) as a standalone reusable pac
 
 ---
 
-[Unreleased]: https://github.com/sapogov-games/sgl-boot/compare/1.0.4...HEAD
-[1.0.4]: https://github.com/sapogov-games/sgl-boot/compare/1.0.3...1.0.4
-[1.0.3]: https://github.com/sapogov-games/sgl-boot/compare/1.0.2...1.0.3
-[1.0.2]: https://github.com/sapogov-games/sgl-boot/compare/1.0.1...1.0.2
-[1.0.1]: https://github.com/sapogov-games/sgl-boot/compare/1.0.0...1.0.1
-[1.0.0]: https://github.com/sapogov-games/sgl-boot/releases/tag/1.0.0
+[Unreleased]: https://github.com/sapogov1978/UnityComponents/compare/main...HEAD
+[1.0.4]: https://github.com/sapogov1978/UnityComponents/commits/main/com.sgl.boot
+[1.0.3]: https://github.com/sapogov1978/UnityComponents/commits/main/com.sgl.boot
+[1.0.2]: https://github.com/sapogov1978/UnityComponents/commits/main/com.sgl.boot
+[1.0.1]: https://github.com/sapogov1978/UnityComponents/commits/main/com.sgl.boot
+[1.0.0]: https://github.com/sapogov1978/UnityComponents/commits/main/com.sgl.boot
