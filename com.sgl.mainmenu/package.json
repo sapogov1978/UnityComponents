@@ -4,7 +4,10 @@
   "displayName": "SGL Main Menu",
   "description": "Drop-in main menu. Drag prefab to scene, add buttons, done.",
   "unity": "2022.3",
-  "author": { "name": "Sapogov Games Lab" },
+  "author": {
+    "name": "Sapogov Games Lab",
+    "email": "sapogov@gmail.com"
+  },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
   }

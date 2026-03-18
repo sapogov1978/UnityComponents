@@ -1,0 +1,9 @@
+{
+  "name": "SGL.MainMenu.Runtime",
+  "rootNamespace": "SGL.MainMenu",
+  "references": [ "Unity.TextMeshPro" ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

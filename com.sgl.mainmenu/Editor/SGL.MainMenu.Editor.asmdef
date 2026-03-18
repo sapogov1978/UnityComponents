@@ -1,0 +1,9 @@
+{
+  "name": "SGL.MainMenu.Editor",
+  "rootNamespace": "SGL.MainMenu.Editor",
+  "references": [ "SGL.MainMenu.Runtime" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": false
+}
