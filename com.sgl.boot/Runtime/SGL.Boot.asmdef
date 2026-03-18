@@ -1,0 +1,8 @@
+{
+    "name": "SGL.Boot",
+    "rootNamespace": "SGL.Boot",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

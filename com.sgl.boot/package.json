@@ -1,0 +1,11 @@
+{
+  "name": "com.sgl.boot",
+  "version": "1.0.0",
+  "displayName": "SGL Boot Sequence",
+  "description": "Reusable boot screen: Unity logo → Studio logo → Splash dissolve",
+  "unity": "2022.3",
+  "author": {
+    "name": "Sapogov Games Lab",
+    "email": "sapogov@gmail.com"
+  }
+}
