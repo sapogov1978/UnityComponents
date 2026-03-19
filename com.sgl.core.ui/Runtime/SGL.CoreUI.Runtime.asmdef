@@ -1,0 +1,9 @@
+{
+  "name": "SGL.CoreUI.Runtime",
+  "rootNamespace": "SGL.CoreUI",
+  "references": [ "Unity.TextMeshPro" ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

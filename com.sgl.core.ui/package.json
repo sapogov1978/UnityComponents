@@ -1,0 +1,14 @@
+{
+  "name": "com.sgl.core.ui",
+  "version": "1.0.0",
+  "displayName": "SGL Core UI",
+  "description": "Base UI classes: UIElement, UIFadeable, UIPanel, UIButton, UIFader.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Sapogov Games Lab",
+    "email": "sapogov@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
